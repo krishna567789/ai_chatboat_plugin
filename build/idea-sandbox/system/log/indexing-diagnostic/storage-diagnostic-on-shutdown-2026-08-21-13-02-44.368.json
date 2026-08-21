@@ -1,0 +1,91 @@
+{
+  "pageCacheStats" : {
+    "cachedChannelsStatistics" : {
+      "hit" : 36,
+      "miss" : 0,
+      "load" : 137,
+      "capacity" : 400
+    },
+    "uncachedFileAccess" : 136,
+    "maxRegisteredFiles" : 617,
+    "maxCacheSizeInBytes" : 289513472,
+    "totalCachedSizeInBytes" : 18980864,
+    "pageHits" : 12,
+    "pageFastCacheHits" : 24751,
+    "pageLoadsAboveSizeThreshold" : 0,
+    "regularPageLoads" : 283,
+    "disposedBuffers" : 261,
+    "totalPageDisposalUs" : 13839,
+    "totalPageLoadUs" : 647803,
+    "totalPagesLoaded" : 283,
+    "capacityInBytes" : 524288000
+  },
+  "vfsStorageStats" : {
+    "statsPerEnumerator" : {
+      "contentHashes.dat" : {
+        "collisions" : 0,
+        "values" : 13,
+        "dataFileSizeInBytes" : 260,
+        "storageSizeInBytes" : 96,
+        "btreeStatistics" : {
+          "pages" : 1,
+          "elements" : 13,
+          "height" : 1,
+          "moves" : 0,
+          "leafPages" : 1,
+          "maxSearchStepsInRequest" : 0,
+          "searchRequests" : 30,
+          "searchSteps" : 0,
+          "pageCapacity" : 32768,
+          "sizeInBytes" : 32768
+        }
+      },
+      "names.dat" : {
+        "collisions" : 0,
+        "values" : 39958,
+        "dataFileSizeInBytes" : 1415711,
+        "storageSizeInBytes" : 96,
+        "btreeStatistics" : {
+          "pages" : 17,
+          "elements" : 39957,
+          "height" : 2,
+          "moves" : 61,
+          "leafPages" : 16,
+          "maxSearchStepsInRequest" : 76,
+          "searchRequests" : 143155,
+          "searchSteps" : 204614,
+          "pageCapacity" : 32768,
+          "sizeInBytes" : 557056
+        }
+      }
+    }
+  },
+  "indexStorageStats" : {
+    "indexStoragesStats" : { }
+  },
+  "otherStorageStats" : {
+    "statsPerPhm" : {
+      "$USER_HOME$/Desktop/ShivamPandey/Ai_model_project/my_ai_extension/build/idea-sandbox/system/frameworks/detection/kuldeep_task.3b21b803/files" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 0,
+          "dataFileSizeInBytes" : 0,
+          "storageSizeInBytes" : 96,
+          "btreeStatistics" : {
+            "pages" : 0,
+            "elements" : 0,
+            "height" : 0,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 0,
+            "searchRequests" : 0,
+            "searchSteps" : 0,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 0
+          }
+        },
+        "valueStorageSizeInBytes" : 0
+      }
+    }
+  }
+}

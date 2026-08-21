@@ -1,0 +1,20 @@
+<svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gherkin feature validator icon">
+  <!-- 2px padding maintained -->
+
+  <!-- Document -->
+  <path d="M10 6 H24.5 L30 11.5 V34 H10 Z" fill="#111827"/>
+  <!-- Fold -->
+  <path d="M24.5 6 V11.5 H30 Z" fill="#374151"/>
+
+  <!-- "Feature" header line -->
+  <rect x="13" y="14" width="14" height="3" rx="1.5" fill="#FFFFFF"/>
+  <!-- Additional lines -->
+  <rect x="13" y="20" width="12" height="2.5" rx="1.25" fill="#FFFFFF" opacity="0.9"/>
+  <rect x="13" y="25" width="10" height="2.5" rx="1.25" fill="#FFFFFF" opacity="0.85"/>
+
+  <!-- Checkmark badge -->
+  <circle cx="30" cy="30" r="8" fill="#16A34A"/>
+  <path d="M25.8 30.2 L28.8 33.2 L34.4 27.6"
+        fill="none" stroke="#FFFFFF" stroke-width="3.6"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

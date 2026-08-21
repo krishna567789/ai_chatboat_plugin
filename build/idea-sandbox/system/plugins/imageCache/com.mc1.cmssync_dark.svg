@@ -1,0 +1,31 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!--
+    Mesmos caminhos do pluginIcon.svg, so as cores mudam.
+
+    Em tema escuro o preenchimento claro dos retangulos vira uma mancha branca; por isso
+    eles ficam vazados, com o traco mais claro que o fundo. O azul do CMS tambem sobe de
+    tom: o #3574F0 do tema claro fica pesado sobre fundo escuro.
+  -->
+  <g stroke="#868A91" stroke-width="1.6" stroke-linecap="round">
+    <path d="M9 13.5V32"/>
+    <path d="M9 19h6.5"/>
+    <path d="M9 25.5h6.5"/>
+    <path d="M9 32h6.5"/>
+  </g>
+
+  <!-- O CMS: a instancia que guarda o cadastro. -->
+  <rect x="2.5" y="4" width="21" height="9.5" rx="2.5" fill="#548AF7"/>
+  <circle cx="7" cy="8.75" r="1.5" fill="#1E1F22"/>
+
+  <!-- As instancias registradas. -->
+  <g fill="#3C3F41" stroke="#A8ADB4" stroke-width="1.4">
+    <rect x="16.5" y="16" width="21" height="6" rx="2"/>
+    <rect x="16.5" y="22.5" width="21" height="6" rx="2"/>
+    <rect x="16.5" y="29" width="21" height="6" rx="2"/>
+  </g>
+  <g fill="#A8ADB4">
+    <circle cx="20.5" cy="19" r="1.2"/>
+    <circle cx="20.5" cy="25.5" r="1.2"/>
+    <circle cx="20.5" cy="32" r="1.2"/>
+  </g>
+</svg>

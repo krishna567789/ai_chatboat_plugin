@@ -1,0 +1,18 @@
+<idea-plugin>
+    <id>com.krishna.syntaxaichatboat</id>
+    <name>Syntax AI Chat Boat</name>
+    <vendor email="krishna6maurya@gmail.com">Krishna AI Labs</vendor>
+
+    <description><![CDATA[
+    <b>Syntax AI Chat Boat</b> - A powerful local AI assistant for Android Studio.
+    <br>Developed by <b>Krishna</b>.
+    ]]></description>
+    <depends>com.intellij.modules.platform</depends>
+    <extensions defaultExtensionNs="com.intellij">
+        <toolWindow id="SyntaxAI"
+                    anchor="right"
+                    icon="AllIcons.Actions.Refresh"
+                    factoryClass="com.example.aiagent.MyAIToolWindowFactory"
+                    displayName="Syntax AI Chat Boat"/>
+    </extensions>
+</idea-plugin>

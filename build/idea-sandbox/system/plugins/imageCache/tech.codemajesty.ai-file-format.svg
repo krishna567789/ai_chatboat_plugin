@@ -1,0 +1,14 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="40" height="40" rx="8" fill="#1B6B93"/>
+
+    <!-- AI Text -->
+    <path d="M12 12L16 12L18 20L20 12L24 12L20 28L16 28L12 12Z" fill="white"/>
+    <path d="M26 12L30 12L32 20L34 12L38 12L34 28L30 28L26 12Z" fill="white" fill-opacity="0.6"/>
+
+    <!-- Document Lines -->
+    <rect x="8" y="8" width="24" height="2" rx="1" fill="white" fill-opacity="0.9"/>
+    <rect x="8" y="30" width="24" height="2" rx="1" fill="white" fill-opacity="0.9"/>
+    <rect x="8" y="19" width="24" height="2" rx="1" fill="white" fill-opacity="0.3"/>
+    <rect x="8" y="24" width="18" height="2" rx="1" fill="white" fill-opacity="0.3"/>
+</svg>

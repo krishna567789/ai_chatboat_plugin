@@ -1,0 +1,116 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="kuldeep_task" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Markdown">
+      <summary usageCount="4" lastUsed="1787314670144" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="4" lastUsage="1787314670147" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kuldeep_task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/sigmaitsoftwaredesignerspvtltd/Desktop/kuldeep_task}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kuldeep_task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/sigmaitsoftwaredesignerspvtltd/Desktop/kuldeep_task}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/sigmaitsoftwaredesignerspvtltd/Desktop/kuldeep_task/lib}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Resources Explorer" order="1" />
+      <window_info id="Build Variants" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.25035715" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Structure" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Layout Inspector" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Services" order="9" />
+      <window_info active="true" anchor="right" id="Local AI Chat" order="0" visible="true" weight="0.33035713" />
+      <window_info anchor="right" id="Device Explorer" order="1" side_tool="true" />
+      <window_info active="true" anchor="right" id="Syntax AI Chat Boat" order="2" visible="true" weight="0.24464285" />
+      <window_info active="true" anchor="right" id="SyntaxAI" order="3" visible="true" weight="0.33035713" />
+      <window_info anchor="right" id="Notifications" order="3" weight="0.25" />
+      <unified_weights left="0.25035715" right="0.33035713" />
+    </layout>
+    <recentWindows>
+      <value>SyntaxAI</value>
+      <value>Syntax AI Chat Boat</value>
+      <value>Local AI Chat</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="372" y="142" key="#Plugins" timestamp="1787297978643">
+      <screen x="0" y="33" width="1512" height="875" />
+    </state>
+    <state x="372" y="142" key="#Plugins/0.33.1512.875@0.33.1512.875" timestamp="1787297978643" />
+    <state x="265" y="114" key="SettingsEditor" timestamp="1787298284866">
+      <screen x="0" y="33" width="1512" height="875" />
+    </state>
+    <state x="265" y="114" key="SettingsEditor/0.33.1512.875@0.33.1512.875" timestamp="1787298284866" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

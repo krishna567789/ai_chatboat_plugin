@@ -1,0 +1,150 @@
+{
+  "appInfo" : {
+    "build" : "232.10227.8",
+    "buildDate" : "2023-11-09T05:00:34.405Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2026-08-21T06:57:23.564726Z",
+    "os" : "macOS 26.2",
+    "runtime" : "JetBrains s.r.o. 17.0.9 17.0.9+7-b1000.46"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "kuldeep_task",
+    "times" : {
+      "scanningReason" : "On project open",
+      "scanningType" : "FULL_ON_PROJECT_OPEN",
+      "scanningId" : 0,
+      "creatingIteratorsTime" : 60978000,
+      "collectingIndexableFilesTime" : 10029165000,
+      "delayedPushPropertiesStageTime" : 4552000,
+      "indexExtensionsTime" : 494376922,
+      "dumbModeStart" : "2026-08-21T06:57:13.358184Z",
+      "dumbWallTimeWithPauses" : 10185024000,
+      "dumbWallTimeWithoutPauses" : 10185024000,
+      "updatingStart" : "2026-08-21T06:57:13.322167Z",
+      "updatingEnd" : "2026-08-21T06:57:23.543208Z",
+      "totalWallTimeWithPauses" : 10221397833,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 10221397833
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 8,
+      "numberOfScannedFiles" : 4532,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 4473
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Library KotlinJavaRuntime (#3 class roots, #3 source roots)",
+      "numberOfScannedFiles" : 3866,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 3866,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 5806522885,
+      "scanningTime" : 6492116265,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 2376687517,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 342882049,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Module 'task_e_commerce' (all roots)",
+      "numberOfScannedFiles" : 271,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 230,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 1479909249,
+      "scanningTime" : 2552281241,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 426048133,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 55020068,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@76a30b2e' (non-project)",
+      "numberOfScannedFiles" : 219,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 219,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 877669830,
+      "scanningTime" : 951803752,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 339109895,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 37227903,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Library Dart SDK (#11 class roots, #0 source roots)",
+      "numberOfScannedFiles" : 137,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 137,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 751847956,
+      "scanningTime" : 803046045,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 304916871,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 44017409,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Module 'task_e_commerce_android' (all roots)",
+      "numberOfScannedFiles" : 39,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 21,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 257917796,
+      "scanningTime" : 533072250,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 62337828,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 15229493,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@76a30b2e' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    } ]
+  }
+}

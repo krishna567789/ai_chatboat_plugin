@@ -1,0 +1,156 @@
+<svg width="40"
+     height="40"
+     viewBox="0 0 40 40"
+     fill="none"
+     xmlns="http://www.w3.org/2000/svg">
+
+    <!-- Background -->
+    <rect
+            x="2"
+            y="2"
+            width="36"
+            height="36"
+            rx="10"
+            fill="url(#bg)"/>
+
+    <!-- Database -->
+    <ellipse
+            cx="11"
+            cy="12"
+            rx="4"
+            ry="1.6"
+            fill="white"
+            opacity="0.95"/>
+
+    <path
+            d="M7 12V18
+               C7 19.5 8.8 20.6 11 20.6
+               C13.2 20.6 15 19.5 15 18V12"
+            fill="white"
+            opacity="0.95"/>
+
+    <ellipse
+            cx="11"
+            cy="18"
+            rx="4"
+            ry="1.6"
+            fill="white"
+            opacity="0.88"/>
+
+    <!-- Sync -->
+
+    <path
+            d="M18 15
+               A5 5 0 0 1 24 15"
+            stroke="white"
+            stroke-width="2"
+            stroke-linecap="round"/>
+
+    <path
+            d="M22.6 13.3
+               L24.3 15
+               L22.6 16.7"
+            stroke="white"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"/>
+
+    <path
+            d="M24 25
+               A5 5 0 0 1 18 25"
+            stroke="white"
+            stroke-width="2"
+            stroke-linecap="round"/>
+
+    <path
+            d="M19.4 23.3
+               L17.7 25
+               L19.4 26.7"
+            stroke="white"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"/>
+
+    <!-- Entity -->
+
+    <path
+            d="
+            M30 13
+            C28.5 13
+            28 14
+            28 15.5
+
+            V17
+
+            C28 18
+            27.3 18.7
+            26.5 19
+
+            C27.3 19.3
+            28 20
+            28 21
+
+            V22.5
+
+            C28 24
+            28.5 25
+            30 25"
+            stroke="white"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"/>
+
+    <path
+            d="
+            M32 13
+            C33.5 13
+            34 14
+            34 15.5
+
+            V17
+
+            C34 18
+            34.7 18.7
+            35.5 19
+
+            C34.7 19.3
+            34 20
+            34 21
+
+            V22.5
+
+            C34 24
+            33.5 25
+            32 25"
+            stroke="white"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"/>
+
+    <defs>
+
+        <linearGradient
+                id="bg"
+                x1="3"
+                y1="3"
+                x2="37"
+                y2="37"
+                gradientUnits="userSpaceOnUse">
+
+            <stop
+                    offset="0%"
+                    stop-color="#17D7A8"/>
+
+            <stop
+                    offset="55%"
+                    stop-color="#2E8BFF"/>
+
+            <stop
+                    offset="100%"
+                    stop-color="#7758FF"/>
+
+        </linearGradient>
+
+    </defs>
+
+</svg>

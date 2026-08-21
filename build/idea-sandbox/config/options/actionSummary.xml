@@ -1,0 +1,34 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="10" l="1787314706032" />
+    </e>
+    <e n="EditorCut">
+      <i c="2" l="1787299306716" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1787299292153" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1787298102967" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1787295393474" />
+    </e>
+    <e n="com.intellij.ide.actions.SettingsEntryPointAction$1">
+      <i c="1" l="1787298105177" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="1" l="1787297753206" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="4" l="1787298082724" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.NotificationEventAction">
+      <i c="1" l="1787295161130" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1787298100910" />
+    </e>
+  </component>
+</application>
