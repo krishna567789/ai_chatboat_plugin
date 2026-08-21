@@ -1,1 +1,1 @@
-rootProject.name = "LocalCodeAgent"
+rootProject.name = "SyntaxAIChatBoat"
