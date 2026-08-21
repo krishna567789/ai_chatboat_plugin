@@ -15,4 +15,14 @@
                     factoryClass="com.example.aiagent.MyAIToolWindowFactory"
                     displayName="Syntax AI Chat Boat"/>
     </extensions>
+
+    <actions>
+        <!-- Add right-click action in editor -->
+        <action id="com.krishna.SyntaxAIAction"
+                class="com.example.aiagent.SyntaxAIAction"
+                text="Syntax AI: Fix/Explain Code"
+                description="Use Krishna's AI to fix or explain selected code">
+            <add-to-group group-id="EditorPopupMenu" anchor="last"/>
+        </action>
+    </actions>
 </idea-plugin>
