@@ -1,6 +1,6 @@
 <application>
   <component name="EventLogWhitelist">
-    <update recorder-id="FUS" last-modified="1786478650000" />
+    <update recorder-id="FUS" last-modified="1787688241000" />
     <options recorder-id="FUS">
       <option name="dataThreshold" value="15000" />
       <option name="groupAlertThreshold" value="6000" />
@@ -913,6 +913,10 @@
       &quot;pluginIdString&quot;: &quot;org.intellij.qodana&quot;,
       &quot;nullablePluginName&quot;: &quot;Qodana&quot;,
       &quot;isBundled&quot;: true
+    },
+    &quot;*.dart&quot;: {
+      &quot;pluginIdString&quot;: &quot;Dart&quot;,
+      &quot;nullablePluginName&quot;: &quot;Dart&quot;
     }
   }
 }</component>
@@ -31516,7 +31520,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1787297584834
+    "lastUpdateTime": 1787815195094
   },
   "dependencies": {
     "featureMap": {
@@ -33641,7 +33645,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1787299237652
+    "lastUpdateTime": 1787815195332
   }
 }]]></component>
   <component name="PluginFeatureService">{

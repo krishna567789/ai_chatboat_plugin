@@ -7,22 +7,50 @@
     <b>Syntax AI Chat Boat</b> - A powerful local AI assistant for Android Studio.
     <br>Developed by <b>Krishna</b>.
     ]]></description>
+    <version>1.3.0</version>
+    
+    <change-notes>
+      <![CDATA[
+      <h3>Version 1.3.0 - Premium UX Update</h3>
+      <ul>
+        <li><b>Welcome Screen:</b> Beautiful empty state with quick action chips.</li>
+        <li><b>Context Transparency:</b> See exactly what file/line the AI is reading via Context Chips.</li>
+        <li><b>Micro-Animations:</b> Smooth animated typing indicators and auto-scrolling chat history.</li>
+        <li><b>Hover Polish:</b> Premium hover effects for buttons and glassmorphism UI tweaks.</li>
+        <li><b>Inline Editor Integration:</b> Highlight code, right-click, and select "Ask Syntax AI..." to have the AI rewrite code directly in your editor.</li>
+        <li><b>Vision API Support:</b> Upload screenshots by clicking the '📎' button to let the AI see your UI.</li>
+        <li><b>Autonomous Looping:</b> The AI can now make recursive tool calls to solve complex problems without stopping.</li>
+        <li><b>Project Scaffolding:</b> AI can now instantly generate multiple directories and files for you in one command.</li>
+      </ul>
+      ]]>
+    </change-notes>
+    
     <depends>com.intellij.modules.platform</depends>
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow id="SyntaxAI"
-                    anchor="right"
-                    icon="AllIcons.Actions.Refresh"
-                    factoryClass="com.example.aiagent.MyAIToolWindowFactory"
-                    displayName="Syntax AI Chat Boat"/>
-    </extensions>
+    <!-- Tool window -->
+    <toolWindow id="SyntaxAI" 
+                secondary="true" 
+                anchor="right" 
+                icon="AllIcons.Actions.Refresh"
+                factoryClass="com.example.aiagent.MyAIToolWindowFactory"
+                displayName="Syntax AI Chat Boat"/>
+
+    <!-- Persistent Settings (Application Level) -->
+    <applicationService serviceImplementation="com.example.aiagent.settings.SyntaxAISettingsState"/>
+    <applicationConfigurable parentId="tools" instance="com.example.aiagent.settings.SyntaxAISettingsConfigurable" id="com.example.aiagent.settings.SyntaxAISettingsConfigurable" displayName="Syntax AI"/>
+
+    <!-- Persistent Project State (Chat History) -->
+    <projectService serviceImplementation="com.example.aiagent.settings.SyntaxAIProjectState"/>
+    
+    <postStartupActivity implementation="com.example.aiagent.SyntaxAIGhostTextStartupActivity"/>
+  </extensions>
 
     <actions>
-        <!-- Add right-click action in editor -->
-        <action id="com.krishna.SyntaxAIAction"
-                class="com.example.aiagent.SyntaxAIAction"
-                text="Syntax AI: Fix/Explain Code"
-                description="Use Krishna's AI to fix or explain selected code">
+        <group id="com.krishna.SyntaxAIGroup" text="Syntax AI Pro" popup="true" icon="AllIcons.Actions.Execute">
             <add-to-group group-id="EditorPopupMenu" anchor="last"/>
-        </action>
+            <action id="com.krishna.SyntaxAIExplain" class="com.example.aiagent.ExplainCodeAction" text="Explain this Code" />
+            <action id="com.krishna.SyntaxAIFindBugs" class="com.example.aiagent.FindBugsAction" text="Find Bugs in Selection" />
+            <action id="com.krishna.SyntaxAIInlineEdit" class="com.example.aiagent.InlineEditAction" text="Inline Edit Code" />
+        </group>
     </actions>
 </idea-plugin>

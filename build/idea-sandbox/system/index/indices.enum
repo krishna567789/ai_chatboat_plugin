@@ -226,3 +226,15 @@ shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex
 shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex
 shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinSubclassObjectNameIndex
 shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinOverridableInternalMembersShortNameIndex
+DartImportIndex
+DartPathIndex
+DartClassIndex
+DartLibraryIndex
+DartComponentIndex
+DartSymbolIndex
+shared.index.hashes.DartImportIndex
+shared.index.hashes.DartComponentIndex
+shared.index.hashes.DartPathIndex
+shared.index.hashes.DartLibraryIndex
+shared.index.hashes.DartClassIndex
+shared.index.hashes.DartSymbolIndex

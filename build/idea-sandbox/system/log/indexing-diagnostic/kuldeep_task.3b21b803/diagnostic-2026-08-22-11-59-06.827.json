@@ -1,0 +1,235 @@
+{
+  "appInfo" : {
+    "build" : "232.10227.8",
+    "buildDate" : "2023-11-09T05:00:41.115Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2026-08-22T06:29:06.830729Z",
+    "os" : "macOS 26.2",
+    "runtime" : "JetBrains s.r.o. 17.0.9 17.0.9+7-b1000.46"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "kuldeep_task",
+    "times" : {
+      "scanningIds" : [ 0 ],
+      "contentLoadingVisibleTime" : 70576802,
+      "retrievingChangedDuringIndexingFilesTime" : 5733875,
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 437143752,
+      "updatingStart" : "2026-08-22T06:29:05.707929Z",
+      "updatingEnd" : "2026-08-22T06:29:06.808106Z",
+      "totalWallTimeWithPauses" : 1099925000,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbModeStart" : "2026-08-22T06:29:05.707929Z",
+      "dumbWallTimeWithoutPauses" : 1099925000,
+      "dumbWallTimeWithPauses" : 1099925000,
+      "totalWallTimeWithoutPauses" : 1099925000
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 3,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 164
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "textmate",
+      "partOfTotalProcessingTime" : {
+        "part" : 10631347409,
+        "total" : 10805763117
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 657960955,
+        "total" : 684683705
+      },
+      "totalNumberOfFiles" : 160,
+      "totalFilesSize" : 3500892,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 3500892,
+        "totalCpuTime" : 10631347409
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Library Dart SDK (#11 class roots, #0 source roots)",
+        "numberOfFiles" : 137,
+        "totalFilesSize" : 3470727,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 6110888574,
+          "total" : 10631347409
+        }
+      }, {
+        "providerName" : "Module 'task_e_commerce' (all roots)",
+        "numberOfFiles" : 23,
+        "totalFilesSize" : 30165,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 4520458835,
+          "total" : 10631347409
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 124494375,
+        "total" : 10805763117
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 8977917,
+        "total" : 684683705
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 25439,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 25439,
+        "totalCpuTime" : 124494375
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'task_e_commerce' (all roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 25439,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 124494375,
+          "total" : 124494375
+        }
+      } ]
+    }, {
+      "fileType" : "UNKNOWN",
+      "partOfTotalProcessingTime" : {
+        "part" : 49921333,
+        "total" : 10805763117
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 17744833,
+        "total" : 684683705
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 0,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 0,
+        "totalCpuTime" : 49921333
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Refreshed files",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : 0,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 49921333,
+          "total" : 49921333
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ {
+      "language" : "textmate",
+      "partOfTotalProcessingTime" : {
+        "part" : 10631347409,
+        "total" : 10805763117
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1342644660,
+        "total" : 684683705
+      },
+      "totalNumberOfFiles" : 160,
+      "totalFilesSize" : 3500892,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 3500892,
+        "totalCpuTime" : 10631347409
+      }
+    }, {
+      "language" : "TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 124494375,
+        "total" : 10805763117
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 693661622,
+        "total" : 684683705
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 25439,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 25439,
+        "totalCpuTime" : 124494375
+      }
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 1397870994,
+        "total" : 2543041741
+      },
+      "totalNumberOfFiles" : 161,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 3526331,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 3526331,
+        "totalCpuTime" : 1397870994
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 1145170747,
+        "total" : 2543041741
+      },
+      "totalNumberOfFiles" : 161,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 3526331,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 3526331,
+        "totalCpuTime" : 1145170747
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 3,
+      "retrievingTime" : 5733875
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "Library Dart SDK (#11 class roots, #0 source roots)",
+      "totalNumberOfIndexedFiles" : 137,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 579818070,
+      "contentLoadingVisibleTime" : 30912543,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 252585342
+    }, {
+      "providerName" : "Module 'task_e_commerce' (all roots)",
+      "totalNumberOfIndexedFiles" : 24,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 440726054,
+      "contentLoadingVisibleTime" : 32368468,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 184171998
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 3,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 20525166,
+      "contentLoadingVisibleTime" : 7295791,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 386412
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.4111501990541799
+  }
+}

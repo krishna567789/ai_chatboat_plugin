@@ -3,6 +3,7 @@ shared.index.file.content.hash.forward.index.shared.index.hashes.fileIncludes:2
 shared.index.file.content.hash.forward.index.shared.index.hashes.yaml.keys.name:2
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFilePackageIndex:2
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinJvmNameAnnotationIndex:1
+shared.index.file.content.hash.forward.index.shared.index.hashes.DartPathIndex:8
 shared.index.file.content.hash.forward.index.shared.index.hashes.gr.script.fqn.s:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinSuperClassIndex:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.BindingXmlIndex:2
@@ -15,7 +16,7 @@ shared.index.file.content.hash.forward.index.shared.index.hashes.java.fun.expres
 shared.index.file.content.hash.forward.index.shared.index.hashes.gr.class.super:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingFunctionShortNameIndex:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KlibMetaFileIndex:2
-shared.index.file.content.hash.forward.index.shared.index.hashes.FilenameIndex:10
+shared.index.file.content.hash.forward.index.shared.index.hashes.FilenameIndex:62
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.base.indices.names.KotlinTopLevelClassLikeDeclarationByPackageShortNameIndex:2
 shared.index.file.content.hash.forward.index.shared.index.hashes.java.method.parameter.types:1
@@ -31,10 +32,11 @@ shared.index.file.content.hash.forward.index.shared.index.hashes.FrameworkDetect
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinSubclassObjectNameIndex:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.properties.index:1
-shared.index.file.content.hash.forward.index.shared.index.hashes.Trigram.Index:2
+shared.index.file.content.hash.forward.index.shared.index.hashes.DartImportIndex:8
+shared.index.file.content.hash.forward.index.shared.index.hashes.java.anonymous.baseref:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeFqNameIndex:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex:2
-shared.index.file.content.hash.forward.index.shared.index.hashes.java.anonymous.baseref:1
+shared.index.file.content.hash.forward.index.shared.index.hashes.Trigram.Index:2
 shared.index.file.content.hash.forward.index.shared.index.hashes.devkit.ExtensionPointIndex:2
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinJavaScriptMetaFileIndex:2
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex:2
@@ -45,8 +47,8 @@ shared.index.file.content.hash.forward.index.shared.index.hashes.java.module.nam
 shared.index.file.content.hash.forward.index.shared.index.hashes.dom.namespaceKey:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.ant-imports:2
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFileIndex:2
-shared.index.file.content.hash.forward.index.shared.index.hashes.PluginIdModuleIndex:2
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinPackageSourcesMemberNamesIndex:2
+shared.index.file.content.hash.forward.index.shared.index.hashes.PluginIdModuleIndex:2
 shared.index.file.content.hash.forward.index.shared.index.hashes.DomFileIndex:2
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionByPackageIndex:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.xmlProperties:2
@@ -61,9 +63,11 @@ shared.index.file.content.hash.forward.index.shared.index.hashes.java.class.extl
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex:2
 shared.index.file.content.hash.forward.index.shared.index.hashes.filetypes:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.java.class.fqn:1
+shared.index.file.content.hash.forward.index.shared.index.hashes.DartSymbolIndex:8
 shared.index.file.content.hash.forward.index.shared.index.hashes.kotlin.primeIndexKey:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinFilePartClassIndex:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.bytecodeAnalysis:2
+shared.index.file.content.hash.forward.index.shared.index.hashes.DartLibraryIndex:8
 shared.index.file.content.hash.forward.index.shared.index.hashes.Stubs:2
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeClassByPackageIndex:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex:1
@@ -86,6 +90,7 @@ shared.index.file.content.hash.forward.index.shared.index.hashes.java.annotation
 shared.index.file.content.hash.forward.index.shared.index.hashes.javafx.custom.component:2
 shared.index.file.content.hash.forward.index.shared.index.hashes.java.source.module.name:2
 shared.index.file.content.hash.forward.index.shared.index.hashes.java.binary.plus.expression:2
+shared.index.file.content.hash.forward.index.shared.index.hashes.DartComponentIndex:8
 shared.index.file.content.hash.forward.index.shared.index.hashes.gr.script.class:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.gr.script.fqn:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingPropertyShortNameIndex:1
@@ -93,8 +98,8 @@ shared.index.file.content.hash.forward.index.shared.index.hashes.gr.method.name:
 shared.index.file.content.hash.forward.index.shared.index.hashes.com.android.tools.idea.model.AndroidManifestIndex:2
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelClassByPackageIndex:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.java.auto.module.name:1
-shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinFunctionShortNameIndex:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinFullClassNameIndex:1
+shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinFunctionShortNameIndex:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelExtensionsByReceiverTypeIndex:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.java.method.name:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.dom.elementClass:1
@@ -104,12 +109,13 @@ shared.index.file.content.hash.forward.index.shared.index.hashes.json.file.root.
 shared.index.file.content.hash.forward.index.shared.index.hashes.gr.anonymous.class:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasFqNameIndex:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.HtmlTagIdIndex:2
+shared.index.file.content.hash.forward.index.shared.index.hashes.JavaFxControllerClassIndex:2
 shared.index.file.content.hash.forward.index.shared.index.hashes.XmlNamespaces:2
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionFqnNameIndex:1
 shared.index.file.content.hash.forward.index.shared.index.hashes.XmlTagNames:2
 shared.index.file.content.hash.forward.index.shared.index.hashes.TodoIndex:2
-shared.index.file.content.hash.forward.index.shared.index.hashes.JavaFxControllerClassIndex:2
 shared.index.file.content.hash.forward.index.shared.index.hashes.javafx.id.name:2
+shared.index.file.content.hash.forward.index.shared.index.hashes.DartClassIndex:8
 shared.index.file.content.hash.forward.index.shared.index.hashes.editorconfig.index.name:2
 shared.index.file.content.hash.forward.index.shared.index.hashes.org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex:2
 shared.index.file.content.hash.forward.index.shared.index.hashes.com.intellij.uiDesigner.FormClassIndex:2
