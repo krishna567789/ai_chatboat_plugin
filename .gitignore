@@ -1,0 +1,22 @@
+# IntelliJ Platform / Android Studio
+.idea/
+*.iml
+*.iws
+
+# Gradle
+.gradle/
+build/
+gradle/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Local sandbox environment
+idea-sandbox/
+
+# Kotlin
+.kotlin/
+.kotlin_module
+
+# OS specific
+.DS_Store
+Thumbs.db
